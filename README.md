@@ -2,9 +2,14 @@
 
 <div align="center">
   Focus Time
+  <br/>
+  <br/>
+  
+  
+![Screenshot 2023-11-02 040810](https://github.com/AjroudiRida/focus-time-pomodoro/assets/114816909/85051b72-52e3-4d49-95c4-e84311e0d912)
+  
 </div>
 <br/>
-
 
 # 📗 Table of Contents
 - [📖 About the Project](#about-project)
